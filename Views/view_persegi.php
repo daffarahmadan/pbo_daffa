@@ -11,15 +11,18 @@ require('../Class/class_persegi.php');
 </head>
 <body>
     <form method="post">
+        PERSEGI <br>
         <label for="sisi" >sisi Persegi:</label>
         <input type="number" name="sisi" id="sisi" required><br>
 
+        PERSEGI PANJANG <br>
         <label for="panjang" >panjang Persegi Panjang:</label>
         <input type="number" name="panjang" id="panjang" required><br>
 
         <label for="lebar" >lebar Persegi Panjang:</label>
         <input type="number" name="lebar" id="lebar" required><br>
 
+        SEGITIGA <br>
         <label for="alas" >alas Segitiga:</label>
         <input type="number" name="alas" id="alas" required><br>
 
